@@ -2,7 +2,6 @@ package com.lastcandy;
 
 import java.util.Random;
 
-import static java.lang.Math.abs;
 
 /*
     There are a total of 13 candies in a bag.
