@@ -1,4 +1,4 @@
-package com.blankfactor.lastcandy;
+package com.lastcandy;
 
 import java.util.Random;
 
